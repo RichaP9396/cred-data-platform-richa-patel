@@ -1,5 +1,3 @@
-# cred-data-platform-richa-patel
-Data Platform for Large-Scale Analytics
 CRED Data Platform – Take-Home Assignment
 Overview
 This project demonstrates how I would design and build a scalable data pipeline and warehouse layer to support analytics and AI use cases for large-scale event data. The goal was to create a reliable and modular data workflow using BigQuery and dbt, showing how raw events can be turned into curated daily metrics ready for dashboards or machine-learning models.

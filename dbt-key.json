@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "my-project-richa-357820",
+  "private_key_id": "a3008022343337b2ff3c46c086409c5645c58a88",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDAhhpyNiJKPkop\n4yoD+tCIW5HhLSNBplQ5bkYew2rZqj7hiXUPDcKVMDLVNlkSPwj+CvwTJSimMxEK\nblMShIJKrfNmf55BvnzNjbq0XTK86Nx8VBv2fzFqk8+8gyq3jHG4QJl0eDtytBg9\nlEWIgQoILg3lmVwFBmyBZoM2lQYHTw8n3H/1Ga4ReKYwfNuznOc17WKty0AlbNET\nyhBB4YbcQkC5OrcTAPR8ekuBV9ir3ouhs6QOP4XNel6GK1SV0MKRhXPu/BVMYNhR\n+jdiiN5b4TNTT3SEWgbua0Z2TvIh+n2MdxE0Ph9XIzOIzJ5l1gW+tYamYKREx+7x\nDJ/PSzcPAgMBAAECggEABthdyq9zuFRkT6lKM6UF0sCqvFOzXAtdau3++UC1JQhs\nFER5EIV1Ode3tE6qi78JA1CsVhlCoOd86h7dE5ykLffnCRRthznjdxgxyhBBlGeV\nJf3ZlqyUEGLcBoBavaGf43oMhWXG+1ToQxGUB/6f4YWTAesE02WUkw9BiBMes+tt\nn0eV4Zt6WVgTJ/4K7s8ezp+L2MfCLJiiOmnC059sTA0a2rHAByRTIMYzz3GLCKn2\nGWRs0GK3QYAdRtAbg2lxRBQ96facvIkM1dCQ+L46QSdibG6yUpV1zczGRGgTjWcr\nvXdKP6CzRYICPf5xFbjCCVodzmnhcsgwHIj477ZC+QKBgQD65EWIab00WLMpHWiK\n4qiCeFauFLN2YiTwB7I6IahLF0jU+d4Wr4zgvyk3n6tMtLIFnfEddYvUUUVkVh1g\n4VgHiaol3h54LfjCQUkHdDlYlPU7/jT+t4GF76MzF2naKNKS1Y3ehejqLiFPzdea\nEBLxAeJT2V8fnUdXiCbCP2J02QKBgQDEcZmDRPj7DO9mw88zly3SLKPbEbrLNP3/\nN8iGfNj70D7+PFtIo0gs4yo7TnRyFphqxC7UEivCKSC7Y/WZhfe2j4AefaVXfFz8\nY+yqRDOw1pSPskp6o9Xqhu4nfg7wE6nVOJ6h0Rw3yteL4DxKkx6kXzRfnywfrAdC\nUHsQJvx6JwKBgG3g10r89C4ewqg5BvX8ekxZo6ytyEMKjJ7K4BVxdCEe23jazZcl\n3w726XhA52a6pFStbVG3jzu3NCrTRB6P0lvKwMfA1ZtQlueMbA1lq0/OPPC/TjpX\n59PetZzEnkk7I63G9VEFWJJnDZPD1K7WZ1VBu/t48Z4I5ZvCNydPVzFRAoGAR1YV\ncDUA0XIOEdxzhwGUUymAy1Hx6k8xGZgxSp1V0oP6DCrw3zzkPeC0elrwMGoCKWta\nsgpzN4vl5gbTrk+W+AW+edQY0d9IiSLkU6R2vPX/dvtAzq5mRUeAfnjphccuOk7Y\nVFzyiVQw2Auy+UXZr8ke5MaRqGK5NByzw9bUgqsCgYB7xeEEw3TcORlfhpOFe0LT\nHRf4AM0V3JZuq4JG+WcCJJjxLI2yBGbCam5mX8tBvDAVAf9SN56xzE+slZCG35/H\n6dV1+6dJ8bhadRRDDEzhxV31TIxCR5Yyjcr7hPu6R6A1I7DMEm4hOwS4Bp3WRf9c\nYhtdhd3Gn2zu+vhw5HhJgQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "dbt-cred-pipeline@my-project-richa-357820.iam.gserviceaccount.com",
+  "client_id": "113523046178999533857",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dbt-cred-pipeline%40my-project-richa-357820.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
