@@ -83,3 +83,21 @@ Add streaming ingestion (Pub/Sub → Dataflow → BigQuery)
 Integrate CI/CD using dbt Cloud or GitHub Actions
 Enable data lineage tracking and automatic documentation
 Connect curated data to a feature store (like Feast)
+
+cred-takehome/
+├── README.md
+├── design_doc.pdf
+├── leadership_strategy_note.pdf
+├── sample_data/
+│   └── sample_events.csv
+├── cred_pipeline
+├── models/
+│   ├── staging/
+│   │   ├── stg_events.sql
+│   │   └── stg_events.yml
+│   ├── my_first_dbt_model
+│   ├── my_second_dbt_model
+│   └── marts/
+│       ├── fact_user_activity.sql
+│       └── fact_user_activity.yml
+
