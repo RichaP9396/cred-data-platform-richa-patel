@@ -1,0 +1,27 @@
+version: 2
+
+models:
+  - name: fact_user_activity
+    description: "Fact table of user activity with event counts, timestamps, and total amounts."
+    columns:
+      - name: user_id
+        description: "Unique user identifier"
+        tests:
+          - not_null
+          - unique
+      - name: first_event
+        description: "Timestamp of the user's first event"
+        tests:
+          - not_null
+      - name: last_event
+        description: "Timestamp of the user's last event"
+        tests:
+          - not_null
+      - name: total_events
+        description: "Total number of events per user"
+        tests:
+          - not_null
+      - name: total_amount
+        description: "Total sum of amounts per user"
+        tests:
+          - not_null
