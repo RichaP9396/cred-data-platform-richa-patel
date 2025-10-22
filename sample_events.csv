@@ -1,0 +1,11 @@
+event_id,user_id,event_type,event_timestamp,metadata_amount,metadata_currency,source
+evt-1,u1,login,2025-09-01T08:01:02Z,,,
+evt-2,u1,view,2025-09-01T08:02:10Z,,,
+evt-3,u1,purchase,2025-09-01T12:34:56Z,42.5,USD,mobile
+evt-4,u2,login,2025-09-01T09:00:00Z,,,
+evt-5,u2,purchase,2025-09-02T10:00:00Z,10,USD,web
+evt-6,u1,view,2025-09-02T11:00:00Z,,,
+evt-7,u1,purchase,2025-09-03T15:00:00Z,15.75,USD,web
+evt-8,u3,signup,2025-09-02T07:00:00Z,,,
+evt-9,u3,view,2025-09-02T08:00:00Z,,,
+evt-10,u3,purchase,2025-09-03T08:30:00Z,5,USD,mobile
